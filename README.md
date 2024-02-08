@@ -5,14 +5,7 @@ _[click here](https://www.instagram.com/nullpulsegithub/)_ if you want to buy so
 
 <div align="center">
   <pre style="display: inline-block; border: 1px solid; padding: 10px;">
- 
-  
-  __           \ /___ _ 
- (_  |V||_|--- V  | |_)
-__)| || |      _  |_|  
-                                            
-
-					      
+									      
    
 Social Media Hacking Toolkit Vip
   </pre>
@@ -198,7 +191,13 @@ cd ..
 
 start windows.bat
 ```
+<h5><p align="center">Word-list-Name</p></h3>
 
+indian-passwords1.txt
+
+indian-passwords2.txt
+
+indian-passwords3.txt
 
 <br>
 
