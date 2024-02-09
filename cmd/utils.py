@@ -279,19 +279,28 @@ Facebook mass report Tool Under Development! We are currently working on impleme
 If you'd like to contribute, please feel free to create a pull request. Thank you for your patience and understanding!
 '''
 twitter_ju  = '''
-Twitter mass report Tool Under Development! We are currently working on implementing thath function. 
-If you'd like to contribute, please feel free to create a pull request. Thank you for your patience and understanding!
+instal Vip-Phisher for phishing any SocialMedia account'
+
+git clone https://github.com/GuptajiiHacker/Vip-Phisher
+ls
+bash tmux_setup.
 '''
 
 gmail_ju  = '''
-Gmail mass report Tool Under Development! We are currently working on implementing thath function. 
-If you'd like to contribute, please feel free to create a pull request. Thank you for your patience and understanding!
+instal Vip-Phisher for phishing any SocialMedia account'
+
+git clone https://github.com/GuptajiiHacker/Vip-Phisher
+ls
+bash tmux_setup.
 '''
 
 
 facebook_ju_phishing  = '''
-Phishing Tool Under Development! We are currently working on implementing the following phishing code: https://github.com/NullPulse/exaPhisher. 
-If you'd like to contribute, please feel free to create a pull request. Thank you for your patience and understanding!
+instal Vip-Phisher for phishing any SocialMedia account'
+
+git clone https://github.com/GuptajiiHacker/Vip-Phisher
+ls
+bash tmux_setup.
 '''
 
 
