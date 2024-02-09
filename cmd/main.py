@@ -29,7 +29,6 @@ if choice == 1:
 		insta_massreport(username, vpn, amount, 1)
 	if choice == 3:
 		instagram()
-
 elif choice == 2:
 	choice = start_instagram()
 	if choice == 1:
