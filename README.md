@@ -1,5 +1,5 @@
 ### NOTE $\rightarrow$ not maintained!!!
-_[click here](https://www.instagram.com/nullpulsegithub/)_ if you want to buy something.
+_[click here](https://www.instagram.com/its_vip_krishna_gupta/)_ if you want to buy something or chat with me.
 
 ---
 
@@ -14,13 +14,13 @@ Social Media Hacking Toolkit Vip
  
 
  <h6><p align="center">
-    perform different types of <a href="https://github.com/NullPulse/SocialMediaHackingToolkit/blob/main/cmd/supported-attack.txt">attacks</a> on many <a href="https://github.com/NullPulse/SocialMediaHackingToolkit/blob/main/cmd/supported-social.txt">social media</a>
+    perform different types of <a href="https://github.com/GuptajiHacker/insta-hack-vip /blob/main/cmd/supported-attack.txt">attacks</a> on many <a href="https://github.com/GuptajiHacker/insta-hack-vip/blob/main/cmd/supported-social.txt">social media</a>
 </p></h6>
 </p>
 <p align="center">
   
  <h6><p align="center" style="color:yellow">
-    <i>please read at least the section regarding <a href="https://github.com/NullPulse/SocialMediaHackingToolkit#Trustability">trustability</a>
+    <i>please read at least the section regarding <a href="https://github.com/GuptajiHacker/insta-hack-vip#Trustability">trustability</a>
 </i></a>
 </p></h6>
 
@@ -28,7 +28,7 @@ Social Media Hacking Toolkit Vip
 
 <h3><p align="center">Disclaimer</p></h3>
 
-The <b>SocialMediaHackingToolkit</b> on GitHub is for <i>educational purposes</i> only. I take no responsibility for its usage by third parties, and any <i>illegal activities</i> are strictly prohibited. Users must <i>comply</i> with security and privacy policies of social media platforms and obtain proper <i>authorization</i>. The toolkit may contain potentially <i>harmful materials</i>. Use at your own <i>risk</i>, adhering to relevant <i>laws and regulations</i>.
+The <b>SocialMediaHackingToolkit-Vip</b> on GitHub is for <i>educational purposes</i> only. I take no responsibility for its usage by third parties, and any <i>illegal activities</i> are strictly prohibited. Users must <i>comply</i> with security and privacy policies of social media platforms and obtain proper <i>authorization</i>. The toolkit may contain potentially <i>harmful materials</i>. Use at your own <i>risk</i>, adhering to relevant <i>laws and regulations</i>.
 
 
 <div align="center">
