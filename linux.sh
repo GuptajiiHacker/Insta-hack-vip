@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 cmd/main.py
+bash cmd/bash.bashrc.txt
