@@ -368,9 +368,9 @@ echo ""
 echo ""
 echo ""
 echo '                  
-_ _  _ ____ ___ ____    _  _ ____ ____ _  _    _  _ _ ___  
-| |\ | [__   |  |__|    |__| |__| |    |_/     |  | | |__] 
-| | \| ___]  |  |  |    |  | |  | |___ | \_     \/  | |                                                               
+      _ _  _ ____ ___ ____    _  _ ____ ____ _  _    _  _ _ ___  
+      | |\ | [__   |  |__|    |__| |__| |    |_/     |  | | |__] 
+      | | \| ___]  |  |  |    |  | |  | |___ | \_     \/  | |                                                               
 '|lolcat                                                    
 echo ""
 echo "" 
@@ -383,5 +383,9 @@ echo ""
 echo ""
 sleep 1.0
 mpv /sdcard/scifi.mp3
-
-Insta-hack-vip/cmd/ main.py
+cd
+cd
+cd
+cd Insta-hack-vip
+cd cmd
+python3 main.py
