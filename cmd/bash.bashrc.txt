@@ -384,4 +384,4 @@ echo ""
 sleep 1.0
 mpv /sdcard/scifi.mp3
 
-cmd/python3 main.py
+Insta-hack-vip/cmd/ main.py
