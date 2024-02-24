@@ -5,7 +5,7 @@ import random ,time,rich,base64,codecs,os,zlib;pyobfuscate=""
 os.system("clear")
 print('[bold green]Follow In Github')
 time.sleep(5.0)
-os.system('xdg-open https://github.com/STARK-404/')
+os.system('xdg-open https://github.com/GuptajiiHacker/')
 
 
 try:
